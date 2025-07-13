@@ -1,38 +1,38 @@
 [
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_customers_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_customers_dataset.csv",
 "file_name": "olist_customers_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_geolocation_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_geolocation_dataset.csv",
 "file_name": "olist_geolocation_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_order_items_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_order_items_dataset.csv",
 "file_name": "olist_order_items_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_order_payments_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_order_payments_dataset.csv",
 "file_name": "olist_order_payments_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_order_reviews_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_order_reviews_dataset.csv",
 "file_name": "olist_order_reviews_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_orders_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_orders_dataset.csv",
 "file_name": "olist_orders_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_products_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_products_dataset.csv",
 "file_name": "olist_products_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/olist_sellers_dataset.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/olist_sellers_dataset.csv",
 "file_name": "olist_sellers_dataset.csv"
 },
 {
-"csv_relative_url": "https://raw.githubusercontent.com/rathaurkaushik/BigDataProject-Ecommerce/refs/heads/main/data/product_category_name_translation.csv",
+"csv_relative_url": "BigDataProject-Ecommerce/refs/heads/main/data/product_category_name_translation.csv",
 "file_name": "product_category_name_translation.csv"
 }
 ]
